@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "target": "ESNext",
+        "module": "CommonJS",
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "sourceMap": true,
+        "rootDir": "src",
+        "outDir": "lib",
+        "incremental": true
+    },
+    "include": [
+        "src/**/*"
+    ]
+}
