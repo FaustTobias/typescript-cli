@@ -1,4 +1,4 @@
-<h1 align="center">@faustt/eslint-config</h1>
+<h1 align="center">@faustt/typescript-cli</h1>
 
 <p align="center">
   Basic TypeScript CLI Application
