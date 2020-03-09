@@ -12,6 +12,15 @@
 This is a template for a basic typescript app.
 
 
+## Installation
+
+Either use this template directly within GitHub, or use [degit](https://github.com/Rich-Harris/degit):
+
+```
+$ npx degit fausttobias/typescript-cli my-new-project && code my-new-project
+```
+
+
 ## Available scripts
 
 ```dev``` Starts the project in dev mode with hot reloading
