@@ -22,6 +22,10 @@ This is a template for a basic typescript app.
 
 ```clean``` Cleanup build artifacts
 
+```lint``` Checks the project's source code
+
+```lint:fix``` Checks the project's source code and fixes auto-fixable problems
+
 
 ## Contributing
 
