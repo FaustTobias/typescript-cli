@@ -1,5 +1,5 @@
 {
-  "name": "::package::",
+  "name": "@faustt/typescript-cli",
   "version": "0.0.0",
   "author": "::author::",
   "license": "MIT",
@@ -11,8 +11,8 @@
     "clean": "rimraf lib tsconfig.tsbuildinfo"
   },
   "devDependencies": {
-    "@faustt/eslint-config": "^0.0.1",
-    "@types/node": "^13.1.8",
+    "@faustt/eslint-config": "^1.0.0",
+    "@types/node": "^12.12.6",
     "@typescript-eslint/eslint-plugin": "2.17.0",
     "@typescript-eslint/parser": "2.17.0",
     "eslint": "6.8.0",
