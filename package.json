@@ -8,7 +8,9 @@
     "dev": "tsnd --respawn src",
     "build": "tsc",
     "start": "node lib",
-    "clean": "rimraf lib tsconfig.tsbuildinfo"
+    "clean": "rimraf lib tsconfig.tsbuildinfo",
+    "lint": "eslint src/**",
+    "lint:fix": "eslint src/** --fix"
   },
   "devDependencies": {
     "@faustt/eslint-config": "^1.0.0",
